@@ -2,7 +2,7 @@ export interface GameSettings {
   music: boolean;
   sound: boolean;
   vibration: boolean;
-  language: 'en' | 'es' | 'fr' | 'ja';
+  language: 'en' | 'es' | 'fr' | 'ja' | 'id' | 'ar';
 }
 
 export interface GameStats {
